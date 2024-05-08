@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .main-frame{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+    <title>Home</title>
+</head>
+<body>
+    <div class="main-frame">
+        <h1>Human Segmentation</h1>
+        <div class="video-section">
+            <div>
+                <img src="{{ url_for('show_one') }}" alt="">
+                <img src="{{ url_for('show_two') }}" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
