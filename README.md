@@ -1,7 +1,7 @@
 # Human Segmentation with U-Net, a Deep Learning Algorithm based on CNN
 
 <div align="center">
-  <img src="https://github.com/notayush000/e-commerce/assets/58353326/0bf05d2b-08e0-41f2-9044-3c9fb59acfd6" alt="logo" width="128" height="128">
+  <img src="https://github.com/notayush000/Human-Segmentation-using-U-NET/assets/58353326/6c067069-fc11-4065-a17b-d42f6540f434" alt="logo" width="128" height="128">
   <h3>Human Segmentation Using U-NET</h3>
   <p align="center">
     <a href="https://github.com/notayush000">Ayush Mohapatra</a>
@@ -29,4 +29,4 @@ This project aims to automatically segment humans (bodies and faces) from images
 The dataset we used in our project: [Human Segmentation Dataset - Supervise.ly](https://www.kaggle.com/datasets/tapakah68/supervisely-filtered-segmentation-person-dataset)
 
 ## Demo
-![demo](https://github.com/notayush000/e-commerce/assets/58353326/6765dee5-38ba-47cf-b21e-5ff75e94d8c7)
+![demo](https://github.com/notayush000/Human-Segmentation-using-U-NET/assets/58353326/23d45f11-e64d-4ed6-b756-696d2b5056e1)
